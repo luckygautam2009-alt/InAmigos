@@ -2,8 +2,8 @@
 
 A modern, premium, and feature-rich website for the **InAmigos Foundation** NGO. This application is designed to showcase the organization's mission, impact, programs, and events, while facilitating connection and support from donors and volunteers.
 
-## 🚀 Live Demo & Figma Design
-- **Figma Design:** [NGO Website Design on Figma](https://www.figma.com/design/r4bVAB5xFe05Sh4iYvNI6V/NGO-Website-Design)
+## 🚀 Live Demo 
+- https://in-amigos-lilac.vercel.app/
 
 ---
 
